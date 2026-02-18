@@ -1,0 +1,2 @@
+#使用6100端口打开tensorboard运行的结果
+tensorboard --logdir=logs --port=6100
